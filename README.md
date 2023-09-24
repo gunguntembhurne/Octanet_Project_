@@ -1,2 +1,2 @@
 # Octanet_Project_
-I devloped this landing page using html and css
+I Have Completed to given task to me from OctaNet 
